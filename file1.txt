@@ -1,4 +1,9 @@
 class MyClass{
+
+	void MyMethod(){
+		System("Hello Git...!!!!!");
+	}
+
 	main(){
 		System("Hello");
 	}
